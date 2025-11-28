@@ -1,0 +1,6 @@
+body { margin:0; font-family:Arial, sans-serif; }
+.hero { text-align:center; padding:80px 20px; background:#f4f4f4; }
+.btn { display:inline-block; padding:10px 20px; background:black; color:white; text-decoration:none; border-radius:5px; }
+.features { display:flex; padding:40px 20px; gap:20px; flex-wrap:wrap; justify-content:center; }
+.card { background:#fff; padding:20px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1); width:250px; text-align:center; }
+footer { text-align:center; padding:20px; background:#eee; margin-top:40px; }
